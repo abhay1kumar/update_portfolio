@@ -3,6 +3,9 @@
 		Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
+.desination{
+	color: white;
+}
 html::-webkit-scrollbar {
 	width: 1vw;
 }
@@ -181,7 +184,7 @@ ul li:nth-child(14) {
 		content: "REACT JS";
 	}
 	100% {
-		content: "BASKETBALL";
+		content: "Cricket";
 	}
 }
 

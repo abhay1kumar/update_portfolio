@@ -1,3 +1,12 @@
+.profileImage img{
+	border-radius:50%;
+}
+
+.profileImage{
+	margin-right: 2px;
+}
+
+
 .navbar {
 	position: fixed;
 	height: auto;

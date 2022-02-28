@@ -13,10 +13,10 @@ const AboutMe = () => {
 				</p>
 				<p>
 					When I am not smashing the keyboard, you will find me playing
-					basketball, reading or watching anime.
+					Cricket, reading or watching anime.
 				</p>
 				<p>
-					Currently I am a student at DY. Patil College of Engineering, Pune.
+					Currently I am a student at Guvi. GUVI Geek Networks, IITM Research Park, Chennai, Tamilnadu.
 				</p>
 			</div>
 		</div>
