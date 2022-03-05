@@ -1,6 +1,6 @@
 import React from 'react';
 // import ecommerceImg from '../../images/ecommerce-site.png';
-// import netflixCloneImg from '../../images/netflix.png';
+import netflixCloneImg from '../../images/netflix.png';
 // import contactKeeperImg from '../../images/contact-keeper.PNG';
 // import chatAppImg from '../../images/socketio.png';
 import Project from '../Project/Project';
@@ -8,7 +8,7 @@ import Project from '../Project/Project';
 import bookingApp from '../../images/bookingapp.png';
 import crudApplication from '../../images/crudapplication.jpg';
 import todolist from '../../images/todolist.png';
-import pricechart from '../../images/pricechart.png';
+// import pricechart from '../../images/pricechart.png';
 // import PingPong from '../../images/ping-pong.PNG';
 import './Projects.css';
 
@@ -40,10 +40,10 @@ const Projects = () => {
 			imageSrc: todolist,
 		},
 		{
-			title: 'Price Chart',
-			demoLink: 'https://pricehchartabhay.netlify.app/',
-			sourceCodeLink: 'https://github.com/Abhay1kumar/Price-Chart',
-			imageSrc: pricechart,
+			title: 'Movie App',
+			demoLink: 'https://abhay-kumar-movieapp.netlify.app/',
+			sourceCodeLink: 'https://github.com/Abhay1kumar/MovieAPP',
+			imageSrc: netflixCloneImg,
 		},
 		// {
 		// 	title: 'E-Commerce WebApp',
