@@ -71,42 +71,31 @@
 }
 
 .skills-container .image-1 {
-	--rotation: 30deg;
+	--rotation: 45deg;
 }
 
 .skills-container .image-2 {
-	--rotation: 60deg;
-}
-.skills-container .image-3 {
 	--rotation: 90deg;
 }
+.skills-container .image-3 {
+	--rotation: 135deg;
+}
 .skills-container .image-4 {
-	--rotation: 120deg;
-}
-.skills-container .image-5 {
-	--rotation: 150deg;
-}
-.skills-container .image-6 {
 	--rotation: 180deg;
 }
-.skills-container .image-7 {
-	--rotation: 210deg;
+.skills-container .image-5 {
+	--rotation: 225deg;
 }
-.skills-container .image-8 {
-	--rotation: 240deg;
-}
-.skills-container .image-9 {
+.skills-container .image-6 {
 	--rotation: 270deg;
 }
-.skills-container .image-10 {
-	--rotation: 300deg;
+.skills-container .image-7 {
+	--rotation: 315deg;
 }
-.skills-container .image-11 {
-	--rotation: 330deg;
-}
-.skills-container .image-12 {
+.skills-container .image-8 {
 	--rotation: 360deg;
 }
+
 
 @keyframes heartBeat {
 	0% {

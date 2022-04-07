@@ -8,7 +8,6 @@ import Project from '../Project/Project';
 import bookingApp from '../../images/bookingapp.png';
 import crudApplication from '../../images/crudapplication.jpg';
 import todolist from '../../images/todolist.png';
-// import pricechart from '../../images/pricechart.png';
 // import PingPong from '../../images/ping-pong.PNG';
 import './Projects.css';
 

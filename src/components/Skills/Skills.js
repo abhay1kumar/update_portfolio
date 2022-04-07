@@ -3,13 +3,9 @@ import ReactLogo from "../../images/react.png";
 import cssLogo from "../../images/css.png";
 import expressLogo from "../../images/express.png";
 import htmlLogo from "../../images/html.png";
-import typescriptLogo from "../../images/typescript.png";
-import javaLogo from "../../images/java.png";
-import firebaseLogo from "../../images/firebase.png";
 import mongodbLogo from "../../images/mongodb.png";
 import javascriptLogo from "../../images/javascript.png";
 import nodeLogo from "../../images/node-js.png";
-import pythonLogo from "../../images/python.png";
 import gitLogo from "../../images/git.png";
 import "./Skills.css";
 
@@ -22,10 +18,6 @@ const Skills = () => {
 		expressLogo,
 		ReactLogo,
 		nodeLogo,
-		javaLogo,
-		typescriptLogo,
-		firebaseLogo,
-		pythonLogo,
 		gitLogo,
 	];
 
