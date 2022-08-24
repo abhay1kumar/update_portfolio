@@ -1,10 +1,22 @@
-.profileImage img{
-	border-radius:50%;
+.profileImage img {
+	border-radius: 50%;
 }
 
-.profileImage{
-	margin-right: 2px;
+.profileImage {
+	margin-right: 20px;
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	/* margin-left: 30px; */
 }
+
+.navbar__title img {
+	height: 100%;
+	width: 100%;
+	margin-right: 4px;
+
+}
+
 
 
 .navbar {
@@ -23,18 +35,14 @@
 	padding: 0.75rem 8px;
 }
 
-@media (min-width: 450px) {
-	.navbar .navbar__content.content-container-fluid {
-		padding-left: 3.2rem;
-		padding-right: 3.2rem;
-	}
-}
+
 
 .navbar__title {
 	display: flex;
 	align-items: center;
 	color: white;
 	text-decoration: none;
+	gap: 20x;
 }
 
 .navbar__title h1 {
@@ -44,11 +52,7 @@
 	font-family: "Parisienne", cursive;
 }
 
-.navbar__title img {
-	max-height: 56px;
-	max-width: 56px;
-	margin-right: 4px;
-}
+
 
 .navbar .navbar__menu {
 	background: none;
@@ -100,7 +104,7 @@
 	}
 
 	.navbar__title {
-		width: 230px;
+		max-width: fit-content;
 	}
 
 	.navbar h1 {
@@ -114,5 +118,12 @@
 		flex-basis: unset;
 		flex-direction: row;
 		align-items: center;
+	}
+}
+
+@media (min-width: 450px) {
+	.navbar .navbar__content.content-container-fluid {
+		padding-left: 3.2rem;
+		padding-right: 3.2rem;
 	}
 }

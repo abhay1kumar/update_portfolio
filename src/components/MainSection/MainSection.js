@@ -17,7 +17,7 @@ const MainSection = () => {
 				<li>A</li>
 				<li>R</li>
 			</ul>
-			<p className="desination">Full Stack Developer</p>
+			<p className="desination">Software Developer</p>
 			<h3 className="main-heading">
 				I Love <span></span>
 			</h3>
